@@ -1,15 +1,25 @@
 # A multi-omics temporal atlas during cell transdifferentiation uncovers causal relationships between chromatin and gene expression
-Beatrice Borsari1@*, Silvia González-López1*, Amaya Abad1, Vasilis F. Ntasis1, Cecilia C. Klein1,2,&, Diego Garrido-Martín1,2, Carme Arnan1, Alexandre Esteban1,$, Emilio Palumbo1, Marina Ruiz-Romero1, Raül G. Veiga1%, Maria Sanz1,£, Bruna R. Correa1, Rory Johnson1,#, Sílvia Pérez-Lluch1,† and Roderic Guigó1,3,†
-1. Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Barcelona (BIST), Catalonia, Spain.
-2. Departament de Genètica, Microbiologia i Estadística, Facultat de Biologia and Institut de Biomedicina (IBUB), Universitat de Barcelona, Barcelona 08028, Catalonia, Spain.
-3. Universitat Pompeu Fabra (UPF), Barcelona, Catalonia, Spain.
-@ Current address: Departament de Genètica, Microbiologia i Estadística, Universitat de Barcelona (UB), Barcelona 08028, Catalonia, Spain.
-& Current address: Discovery and Translational Science Consulting, Life Sciences and Healthcare, Clarivate, Barcelona, Catalonia, Spain.
-$ Current address: “la Caixa” Foundation, Department of Research and Innovation, Barcelona 08028, Catalonia, Spain.
-% Current address: Vall d’Hebron Research Institute (VHIR), Vall d’Hebron Barcelona Hospital Campus, Barcelona, Catalonia, Spain.
-\# Current address: School of Medicine, University College Dublin, Ireland; Conway Institute, University College Dublin; Systems Biology Ireland, University College Dublin, Ireland.
+Beatrice Borsari1<sup>@*</sup>, Silvia González-López<sup>1*</sup>, Amaya Abad<sup>1</sup>, Vasilis F. Ntasis<sup>1</sup>, Cecilia C. Klein<sup>1,2,&</sup>, Diego Garrido-Martín<sup>1,2</sup>, Carme Arnan<sup>1</sup>, Alexandre Esteban<sup>1,$</sup>, Emilio Palumbo<sup>1</sup>, Marina Ruiz-Romero<sup>1</sup>, Raül G. Veiga<sup>1%</sup>, Maria Sanz<sup>1,£</sup>, Bruna R. Correa<sup>1</sup>, Rory Johnson<sup>1,#</sup>, Sílvia Pérez-Lluch<sup>1,†</sup> and Roderic Guigó<sup>1,3,†</sup>
+
+<sup>1</sup> Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Barcelona (BIST), Catalonia, Spain.
+
+<sup>2</sup> Departament de Genètica, Microbiologia i Estadística, Facultat de Biologia and Institut de Biomedicina (IBUB), Universitat de Barcelona, Barcelona 08028, Catalonia, Spain.
+
+<sup>3</sup> Universitat Pompeu Fabra (UPF), Barcelona, Catalonia, Spain.
+
+<sup>@</sup> Current address: Departament de Genètica, Microbiologia i Estadística, Universitat de Barcelona (UB), Barcelona 08028, Catalonia, Spain.
+
+<sup>&</sup> Current address: Discovery and Translational Science Consulting, Life Sciences and Healthcare, Clarivate, Barcelona, Catalonia, Spain.
+
+<sup>$</sup> Current address: “la Caixa” Foundation, Department of Research and Innovation, Barcelona 08028, Catalonia, Spain.
+
+<sup>%</sup> Current address: Vall d’Hebron Research Institute (VHIR), Vall d’Hebron Barcelona Hospital Campus, Barcelona, Catalonia, Spain.
+
+<sup>#</sup> Current address: School of Medicine, University College Dublin, Ireland; Conway Institute, University College Dublin; Systems Biology Ireland, University College Dublin, Ireland.
+
 * Equal contribution
-† Corresponding authors
+
+<sup>†</sup> Corresponding authors
 
 
 ## Abstract

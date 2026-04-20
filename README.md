@@ -1,2 +1,16 @@
-# transdifferentiation_chromatin
-Compilation of the code used to produce the analyses and figures presented in ...
+# A multi-omics temporal atlas during cell transdifferentiation uncovers causal relationships between chromatin and gene expression
+Beatrice Borsari1@*, Silvia González-López1*, Amaya Abad1, Vasilis F. Ntasis1, Cecilia C. Klein1,2,&, Diego Garrido-Martín1,2, Carme Arnan1, Alexandre Esteban1,$, Emilio Palumbo1, Marina Ruiz-Romero1, Raül G. Veiga1%, Maria Sanz1,£, Bruna R. Correa1, Rory Johnson1,#, Sílvia Pérez-Lluch1,† and Roderic Guigó1,3,†
+1. Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Barcelona (BIST), Catalonia, Spain.
+2. Departament de Genètica, Microbiologia i Estadística, Facultat de Biologia and Institut de Biomedicina (IBUB), Universitat de Barcelona, Barcelona 08028, Catalonia, Spain.
+3. Universitat Pompeu Fabra (UPF), Barcelona, Catalonia, Spain.
+@ Current address: Departament de Genètica, Microbiologia i Estadística, Universitat de Barcelona (UB), Barcelona 08028, Catalonia, Spain.
+& Current address: Discovery and Translational Science Consulting, Life Sciences and Healthcare, Clarivate, Barcelona, Catalonia, Spain.
+$ Current address: “la Caixa” Foundation, Department of Research and Innovation, Barcelona 08028, Catalonia, Spain.
+% Current address: Vall d’Hebron Research Institute (VHIR), Vall d’Hebron Barcelona Hospital Campus, Barcelona, Catalonia, Spain.
+\# Current address: School of Medicine, University College Dublin, Ireland; Conway Institute, University College Dublin; Systems Biology Ireland, University College Dublin, Ireland.
+* Equal contribution
+† Corresponding authors
+
+
+## Abstract
+Chromatin marking by post-translational modifications of histone tails is known to be associated with gene expression. However, whether marking is the cause or the consequence of expression remains controversial. Temporal series are a powerful approach to assess causality. They are less disruptive than perturbation experiments, preserving the natural state of the system. Here, we generated densely-spaced multi-omics maps in a time-course, cell-homogeneous, human  transdifferentiation system that occurs with dramatic transcriptomic and epigenomic changes. We used these maps first to characterize the temporal dynamics of chromatin marking at candidate _cis_-Regulatory Elements (cCREs) produced by the ENCODE project. We found that most of these regions are in a limited number of chromatin states (combinations of chromatin marks) and that temporal transitions between states follow a limited number of temporal chromatin trajectories. Then, we used transitions between chromatin states as interventions in causal inference methods to assess the causal impact of chromatin marking on gene expression. We found that the sequential deposition of H3K4me1 and H3K4me2, and eventually of H3K27ac, plays a causal role in triggering gene activation. The subsequent deposition of H3K9ac and H3K4me3 further increases expression, but occurs after gene activation. We also found that gene activation, in turn, has a causal impact promoting the deposition of most canonically activating chromatin marks. Our model serves as an initial framework to integrate apparently contradictory observations in the field.  We believe that our results demonstrate that time-series data is a powerful approach, complementary to perturbation experiments, to untangle the complex causal relationships characterizing biological systems.

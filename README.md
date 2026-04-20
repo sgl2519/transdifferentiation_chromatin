@@ -1,5 +1,5 @@
 # A multi-omics temporal atlas during cell transdifferentiation uncovers causal relationships between chromatin and gene expression
-Beatrice Borsari<sup>1@</sup>\*, Silvia González-López<sup>1</sup>\*, Amaya Abad<sup>1</sup>, Vasilis F. Ntasis<sup>1</sup>, Cecilia C. Klein<sup>1,2,&</sup>, Diego Garrido-Martín<sup>1,2</sup>, Carme Arnan<sup>1</sup>, Alexandre Esteban<sup>1,$</sup>, Emilio Palumbo<sup>1</sup>, Marina Ruiz-Romero<sup>1</sup>, Raül G. Veiga<sup>1%</sup>, Maria Sanz<sup>1,£</sup>, Bruna R. Correa<sup>1</sup>, Rory Johnson<sup>1,#</sup>, Sílvia Pérez-Lluch<sup>1,†</sup> and Roderic Guigó<sup>1,3,†</sup>
+Beatrice Borsari<sup>1,@,</sup>\*, Silvia González-López<sup>1,</sup>\*, Amaya Abad<sup>1</sup>, Vasilis F. Ntasis<sup>1</sup>, Cecilia C. Klein<sup>1,2,&</sup>, Diego Garrido-Martín<sup>1,2</sup>, Carme Arnan<sup>1</sup>, Alexandre Esteban<sup>1,$</sup>, Emilio Palumbo<sup>1</sup>, Marina Ruiz-Romero<sup>1</sup>, Raül G. Veiga<sup>1%</sup>, Maria Sanz<sup>1,£</sup>, Bruna R. Correa<sup>1</sup>, Rory Johnson<sup>1,#</sup>, Sílvia Pérez-Lluch<sup>1,†</sup> and Roderic Guigó<sup>1,3,†</sup>
 
 <sup>1</sup> Centre for Genomic Regulation (CRG), The Barcelona Institute for Science and Technology, Barcelona (BIST), Catalonia, Spain.
 

@@ -25,6 +25,18 @@ Beatrice Borsari<sup>1,@,</sup>\*, Silvia González-López<sup>1,</sup>\*, Amaya
 ## Abstract
 Chromatin marking by post-translational modifications of histone tails is known to be associated with gene expression. However, whether marking is the cause or the consequence of expression remains controversial[^1][^2][^3][^4][^5][^6][^7][^8]. Temporal series are a powerful approach to assess causality[^9]. They are less disruptive than perturbation experiments, preserving the natural state of the system. Here, we generated densely-spaced multi-omics maps in a time-course, cell-homogeneous, human  transdifferentiation system that occurs with dramatic transcriptomic and epigenomic changes. We used these maps first to characterize the temporal dynamics of chromatin marking at candidate _cis_-Regulatory Elements (cCREs) produced by the ENCODE project[^10]. We found that most of these regions are in a limited number of chromatin states (combinations of chromatin marks) and that temporal transitions between states follow a limited number of temporal chromatin trajectories. Then, we used transitions between chromatin states as interventions in causal inference methods to assess the causal impact of chromatin marking on gene expression. We found that the sequential deposition of H3K4me1 and H3K4me2, and eventually of H3K27ac, plays a causal role in triggering gene activation. The subsequent deposition of H3K9ac and H3K4me3 further increases expression, but occurs after gene activation. We also found that gene activation, in turn, has a causal impact promoting the deposition of most canonically activating chromatin marks. Our model serves as an initial framework to integrate apparently contradictory observations in the field.  We believe that our results demonstrate that time-series data is a powerful approach, complementary to perturbation experiments, to untangle the complex causal relationships characterizing biological systems.
 
+### Directory structure
+* `analysis`
+  Post-processing files used to generate results
+* `bed.files`
+  BED files on genomic coordinates relevant for the analyses
+* `bin`
+  Bash scripts for file processing and results generation
+* `figures`
+  Scripts for generation of main and supplementary figures
+* `references`
+  Compendium of file identifiers from the ENCODE portal used to generate results
+
 [^1]: Dorighi, K. M. et al. Mll3 and Mll4 Facilitate Enhancer RNA Synthesis and Transcription from Promoters Independently of H3K4 Monomethylation. Molecular Cell 66, 568–576 (2017).
 [^2]: Rickels, R. et al. Histone H3K4 monomethylation catalyzed by Trr and mammalian COMPASS-like proteins at enhancers is dispensable for development and viability. Nature Genetics 49, 1647–1653 (2017).
 [^3]: Douillet, D. et al. Uncoupling histone H3K4 trimethylation from developmental gene expression via an equilibrium of COMPASS, Polycomb and DNA methylation. Nature Genetics 52, 615–625 (2020).

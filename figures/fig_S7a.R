@@ -141,7 +141,7 @@ palette <- c("H3K9ac" = "#af4d85",
 
 
 # 8. make plot
-pdf("figures/fig.2b.pdf",
+pdf("../figures/fig_S7a.pdf",
     width = 16, height = 4.5, useDingbats = F)
 ggplot() +
   geom_violin(data = w, 

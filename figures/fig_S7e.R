@@ -1,3 +1,19 @@
+#************
+# LIBRARIES *
+#************
+
+library(ggplot2)
+library(ggrepel)
+library(RColorBrewer)
+library(cowplot)
+library(reshape2)
+library(dplyr)
+library(tidyr)
+library(ggcorrplot)
+library(ggsignif)
+library(ggpubr)
+library(grid)
+
 # Proximal enhancers ----
 
 #************

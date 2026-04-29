@@ -14,7 +14,7 @@ df <- read.table(paste0('../analysis/cCREs/precedence/',
                         marks[1],
                         '/',
                         marks[1],
-                        '.peaks.dynamics.binary_metadata.tsv.gz'),
+                        '.peaks.dynamics.binary_metadata.bz2'),
                  header = TRUE)
 
 df <- df[, -c(2, 3, 4)]
@@ -25,7 +25,7 @@ for ( i in marks[2:9] ) {
                            i,
                            '/',
                            i,
-                           '.peaks.dynamics.binary_metadata.tsv.gz'),
+                           '.peaks.dynamics.binary_metadata.bz2'),
                     header = TRUE)
   
   tmp <- tmp[, -c(2, 3, 4)]

@@ -11,8 +11,8 @@ library(ggplot2)
 
 
 # 1. source Rscripts for promoters, pEnhancers and dEnhancers
-source("/users/project/encode_005982_no_backup/flagship/Borsari_et_al/redrawn_figures/scripts/fig_4f.R")
-source("/users/project/encode_005982_no_backup/flagship/Borsari_et_al/redrawn_figures/scripts/fig_4g.R")
+source("fig_4f.R")
+source("fig_4g.R")
 
 x2.promoters$region <- "promoters"
 x2.proxEnhancers$region <- "proximal enhancers"

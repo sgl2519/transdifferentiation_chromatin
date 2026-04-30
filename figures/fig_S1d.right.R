@@ -83,7 +83,7 @@ row_h = rowAnnotation('% cCREs' = anno_barplot(cummul[c(which(cummul <= 90), len
                                          gp = gpar(fontsize = 12)))
 
 
-pdf('fig_1d.right.pdf',
+pdf('fig_S1d.right.pdf',
     height = 6,
     width = 5)
 

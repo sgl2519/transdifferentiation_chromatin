@@ -1,0 +1,77 @@
+classes_summary_H3K27ac.tsv
+variable	5044
+upregulation	761
+peaking	2540
+downregulation	672
+bending	1380
+low expression	1851
+
+classes_summary_H3K27me3.tsv
+variable	1254
+upregulation	487
+peaking	538
+moderate expression	4369
+downregulation	295
+high expression	105
+bending	97
+low expression	5103
+
+classes_summary_H3K36me3.tsv
+variable	6810
+upregulation	231
+peaking	1541
+downregulation	254
+high expression	1
+bending	899
+low expression	2512
+
+classes_summary_H3K4me1.tsv
+variable	7067
+upregulation	459
+peaking	1711
+downregulation	454
+bending	902
+low expression	1655
+
+classes_summary_H3K4me2.tsv
+variable	7782
+upregulation	273
+peaking	1471
+downregulation	194
+bending	953
+low expression	1575
+
+classes_summary_H3K4me3.tsv
+variable	6276
+upregulation	419
+peaking	1969
+downregulation	375
+bending	1380
+low expression	1829
+
+classes_summary_H3K9ac.tsv
+variable	5182
+upregulation	696
+peaking	2492
+downregulation	582
+bending	1464
+low expression	1832
+
+classes_summary_H3K9me3.tsv
+variable	2627
+upregulation	266
+peaking	1088
+downregulation	81
+moderate expression	3571
+high expression	2
+bending	201
+low expression	4412
+
+classes_summary_H4K20me1.tsv
+variable	5362
+upregulation	665
+peaking	2513
+moderate expression	105
+downregulation	341
+bending	903
+low expression	2359
